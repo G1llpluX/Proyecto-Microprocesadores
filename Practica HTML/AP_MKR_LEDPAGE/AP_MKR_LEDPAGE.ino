@@ -1,3 +1,4 @@
+
 /****************************************************************************
 Web Server in an Access Point for Arduino MKR1000                           *
 Reference :                                                                 *
@@ -11,6 +12,7 @@ Example of a simple form in HTML                                            *
 
 #include <SPI.h>
 #include <WiFi101.h>
+
 
 // Global Variables for the WiFi connection
 char ssid[] = "ARIEL-MKR";        // your network SSID (name)
